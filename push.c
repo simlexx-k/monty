@@ -1,5 +1,4 @@
-#include 
-monty.h
+#include monty.h
 /**
  * f_push - add node to the stack
  * @head: stack head
@@ -42,4 +41,3 @@ integer\n, counter);
     else
         addqueue(head, n);
 }
-
