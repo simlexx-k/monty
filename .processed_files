@@ -1,2 +1,8 @@
 main.c
 bus.c
+addnode.c
+addqueue.c
+execute.c
+free_stack.c
+pall.c
+push.c
