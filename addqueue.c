@@ -1,6 +1,7 @@
 #include "monty.h"
 
-void addqueue(stack_t **head, int n) {
+void addqueue(stack_t **head, int n) 
+{
     stack_t *new_node = malloc(sizeof(stack_t));
     stack_t *last;
 
