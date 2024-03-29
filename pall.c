@@ -5,6 +5,7 @@
  * @stack: Pointer to the top of the stack.
  * @line_number: Line number being executed.
  */
+
 void f_pall(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
